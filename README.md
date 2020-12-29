@@ -19,10 +19,10 @@
 
 <!-- Blockquote -->
 >### Connect with me:
-[<img align="left" alt="LEECHARCH      | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="YashRathod7722 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="yash-rathod14  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="_yash.xv       | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LEECHARCH      | YouTube" width="22px" color="#FF0000" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="YashRathod7722 | Twitter" width="22px" color="#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="yash-rathod14  | LinkedIn" width="22px" color="#0e76a8" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="_yash.xv       | Instagram" width="22px" color="linear-gradient(to right,#F58529,#FEDA77,#DD2A7B,#515BD4" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
 
 <!-- Blockquote -->
