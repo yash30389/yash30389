@@ -1,7 +1,6 @@
-### Hi there 👋,  I'm learner! 🌎
-#
+## [<img src="https://media.giphy.com/media/YPb7aAVlSPo7BsdcPL/giphy.gif" width="70px">]  there 👋,  I'm learner! 🌎
 
-[<img src="https://media.giphy.com/media/YPb7aAVlSPo7BsdcPL/giphy.gif" width="70px">] there, I'm Yash Rathod-aka LEECHARCH 👽[yash30389](https://yash30389.github.io/Yash-Rathod/)
+#I'm Yash Rathod-aka LEECHARCH 👽[yash30389](https://yash30389.github.io/Yash-Rathod/)
  
 [![Twitter Follow](https://img.shields.io/twitter/follow/YashRathod7722?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FYashRathod7722&screen_name=YashRathod7722)
 
