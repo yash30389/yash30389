@@ -54,7 +54,7 @@
 
 [twitter]: https://twitter.com/YashRathod7722
 [youtube]: https://www.youtube.com/channel/UC8FuYJMBPS8PaBE1lQcHUdw
-[instagram]: https://www.instagram.com/_yash.xv/
+[instagram]: https://www.instagram.com/_yash.rathod/
 [linkedin]: https://www.linkedin.com/in/yash-rathod14/
 [codepen]: https://codepen.io/yash30389
 [github]: https://github.com/yash30389
