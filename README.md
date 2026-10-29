@@ -105,14 +105,6 @@ These are areas of exploration, not claims that each is a separately released pr
 <img src="https://ghchart.rshah.org/39ff14/yash30389" alt="GitHub contribution calendar for yash30389" width="100%"/>
 </div>
 
-### WakaTime coding activity
-
-WakaTime can show coding time and language breakdowns after your editor is configured to report activity to your account.
-
-1. Create/configure your account at [WakaTime](https://wakatime.com/).
-2. Install its editor extension and enable tracking.
-3. Add your public share/embed URL here when ready.
-
 <!-- TODO: Add your WakaTime public share/embed card after setup. Never publish an API key. -->
 
 <sub>GitHub stats, language cards, activity graphs, contribution calendars, and view counters rely on external services. They may be delayed or unavailable and are not guaranteed real-time impression analytics.</sub>
